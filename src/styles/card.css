@@ -1,0 +1,53 @@
+/* button {
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    color: red;
+    font-size: 15px;
+} */
+
+.cards {
+    box-shadow: 0 4px 8px 0 rgba(17, 155, 17, 0.2);
+    max-width: 300px;
+    margin: auto;   
+    text-align: center;
+    font-family: arial;
+}
+
+img {
+    width: 100%; 
+}
+
+.price {
+    color: rgb(71, 68, 68);
+    font-size: 22px;
+}
+
+.cards button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(10, 5, 5);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .cards button:hover {
+    opacity: 0.7;
+    color: brown;
+  }
+
+  .Delete{
+    margin-left: 194px;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+} 
+  
+.Delete:hover{
+    color: brown;
+    font-size: larger;
+}

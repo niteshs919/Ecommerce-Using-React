@@ -1,0 +1,20 @@
+
+
+button:hover{
+    color: red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+
+.form{
+    margin-top: 50px;
+    width: 80%;
+    text-align: center;
+    margin-left: 122px;
+}
+
+.abc{
+    background-color: lightgray;
+    margin-top:6px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
